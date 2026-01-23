@@ -18,15 +18,15 @@ The Pinternship programme follows a structured support and grievance redressal m
 
 <img src="../support-escalation.png" alt="Escalation Protocol" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
-### Broadcast Channel
+### Broadcast Channel/Thread
 
-The **Broadcast Channel** is the official communication channel of the Pinternship programme. All programme-related announcements, instructions, timelines, and policy updates shall be communicated exclusively through this channel.
+The **Broadcast Channel/Thread** is the official communication channel/thread of the Pinternship programme. All programme-related announcements, instructions, timelines, and policy updates shall be communicated exclusively through this channel/thread.
 
-This channel operates on a one-way communication model, and participants are not permitted to post responses or raise queries. Students are expected to regularly monitor this channel and act in accordance with the information communicated.
+This channel/thread operates on a one-way communication model, and participants are not permitted to post responses or raise queries. Students are expected to regularly monitor this channel/thread and act in accordance with the information communicated.
 
 ### Discussion Channel
 
-The **Discussion Channel** is intended to facilitate student-student interaction and peer-supported problem solving. Participants may use this channel to seek clarifications, discuss academic or platform-related issues, and exchange ideas with fellow interns.
+The **Discussion or Cohort Specific Channels** are intended to facilitate student-student interaction and peer-supported problem solving. Participants may use this channel to seek clarifications, discuss academic or platform-related issues, and exchange ideas with fellow interns.
 
 Students are expected to engage responsibly, maintain academic decorum, and review existing discussions before raising new queries.
 
@@ -37,11 +37,11 @@ The **Pinternship Support Desk** constitutes the formal support mechanism for al
 
 Students must retain their ticket reference number and allow adequate time for resolution before proceeding further.
 
-### Escalation Channel
+### Escalation Channel/Thread
 
-The **Escalation Channel** is a restricted support mechanism and shall be used strictly as a last resort. Participants may access this channel only when their query remains unresolved despite following all prior steps, including raising a formal support ticket with the Support Desk.
+The **Escalation Channel/Thread** is a restricted support mechanism and shall be used strictly as a last resort. Participants may access this channel only when their query remains unresolved despite following all prior steps, including raising a formal support ticket with the Support Desk.
 
-This channel is reserved for critical issues that materially affect participation or progression. Premature or inappropriate use of the escalation mechanism may result in delayed response.
+This channel/thread is reserved for critical issues that materially affect participation or progression. Premature or inappropriate use of the escalation mechanism may result in delayed response.
 
 
 ### Usage of Emojis
