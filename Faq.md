@@ -272,14 +272,12 @@ If the issue persists after trying all steps, **record the issue** and email it 
 
 **7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
-Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
+Please do not worry. This might be a skip made in the quiz as the quiz/video item might not have been successfully completed/marked. Please verify that you've completed all the course items(1006/1006).
 
 In the meantime, you may try the following steps once:
 
 1. **Refresh your browser**
 2. **Log out**, clear your browser cache, and **log in again**
-
-If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
 
 **7.7 I feel the ViBe content or platform is not good or I am unhappy with the way progress is evaluated. Can I request an exception or bypass the system?**  
 
