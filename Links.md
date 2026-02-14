@@ -37,6 +37,14 @@ links:
       url: "https://forms.zohopublic.in/annamai1/form/DeclarationFormCohort3/formperma/iZnntPYMLLi7yUylY0VwzxH418pQc6s5N1dr9BwxDrk"
     - label: "ViBe QC - Vinternship (Kruskalians)"
       url: "https://forms.gle/d8bWDKW294UQafmF8"
+    - label: "Case Study Submission Form (for Kruskalians)"
+      url: "https://forms.gle/E5p8gLgrwp8FvhhH6"
+    # - label: "Vinternship T&C and Declaration Form (for RSAians)"
+    #   url: ""
+    - label: "Case Study Submission Form (for RSAians)"
+      url: "https://forms.gle/SPS8s4bhXt6Nu8ddA"
+    - label: "Activity Completion Confirmation Form (for RSAians)"
+      url: "https://forms.gle/5F1LyWveNb2RwH1H7"
 ---
 
 [← Back]({{ site.baseurl }}/)
