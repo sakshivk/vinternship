@@ -22,3 +22,7 @@ This cohort is exclusively for IITM BS students and focuses on building full-sta
 ### Important Notes:
 - The schedule will be announced soon.
 - Stay tuned for further updates.
+
+## Forms and links
+- [Activity Completion Confirmation Form](https://forms.gle/5F1LyWveNb2RwH1H7){:target="_blank"}
+- [Case Study Submission Form](https://forms.gle/SPS8s4bhXt6Nu8ddA){:target="_blank"}
