@@ -16,7 +16,7 @@ schedule:
 
 ## 📋 General Information
 
-Welcome to **Cohort 4** (RSAians)!  
+Welcome to RSAians!  
 This cohort is exclusively for IITM BS students and focuses on building full-stack applications using MERN.
 
 ### Important Notes:

@@ -16,7 +16,7 @@ schedule:
 
 ## 📋 General Information
 
-Welcome to **Cohort 1**!    
+Welcome to Euclideans!    
 This cohort focuses on building full-stack applications using the MERN stack.
 
 ### Important Notes:

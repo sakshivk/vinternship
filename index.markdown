@@ -31,7 +31,7 @@ Choose your cohort to view general information, live dashboard, announcements, a
 
 {% if site.cohorts and site.cohorts.size > 0 %}
 <div style="display: flex; gap: 1.5rem; margin: 2rem 0; flex-wrap: wrap;">
-  {% for cohort in site.cohorts %}
+  {% for cohort in site.cohorts reversed %}
     {% assign status_color = cohort.color %}
     {% if cohort.status == "Active" %}
       {% assign status_icon = "🟢" %}

@@ -16,7 +16,7 @@ schedule:
 
 ## 📋 General Information
 
-Welcome to **Cohort 2**!    
+Welcome to Dijkstrians!    
 This cohort focuses on building full-stack applications using the MERN stack.
 
 ### Important Notes:

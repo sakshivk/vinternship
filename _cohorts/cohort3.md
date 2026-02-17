@@ -16,7 +16,7 @@ schedule:
 
 ## 📋 General Information
 
-Welcome to **Cohort 3** (Kruskalians)!  
+Welcome to Kruskalians!  
 This cohort focuses on building full-stack applications.    
 Please do join our Discord for announcements and updates.
 
