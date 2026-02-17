@@ -12,7 +12,7 @@ order: 2
 2. [Mode of Internship & Attendance](#2-mode-of-internship--attendance)
 3. [Mentorship & Guidance](#3-mentorship--guidance)
 4. [Support and Resolution Protocol](#4-support-and-resolution-protocol)
-5. [Completion & Certification](#5-completion--certification)
+5. [Completion, Certification & Offer Letter](#5-completion-certification--offer-letter)
 6. [Discontinuation Policy](#6-discontinuation-policy)
 7. [ViBe Platform](#7-vibe-platform)
 8. [MERN Case Studies](#8-mern-case-studies)
@@ -146,7 +146,7 @@ Failure to meet a task or milestone deadline may impact your Health Points and c
 
 ---
 
-## 5. Completion & Certification
+## 5. Completion, Certification & Offer Letter
 
 **5.1 What are the program completion criteria?**  
 - Completion of all course modules on the Learning platform. (Required)
@@ -159,6 +159,9 @@ NPTEL interns should contact the NPTEL internship team for the information regar
 
 **5.3 Will recommendation letters be provided?**  
  Recommendation letters are not guaranteed. You may request one from the course instructor after completing the internship, and it will be at their discretion based on the performance of the candidate.
+
+**5.4 When will AKSians (NPTEL) cohort receive their offer letter?**    
+The offer letter for the AKSians (NPTEL) cohort will be issued after the candidate completes 20% of the ViBe course. The deadline for the same will be announced shortly.
 
 
 ---
@@ -285,7 +288,7 @@ This may happen due to ViBe’s monitored learning system. Common reasons includ
 **7.4 Can I use a mobile or tablet?**  
 No, only **desktop/laptop** is supported.
 
-**7.5 I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?**
+**7.5 I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?**    
 Try these troubleshooting steps in order:
 
 1. **Refresh the page** and check multiple times
@@ -331,7 +334,7 @@ This special exam is conducted once every fortnight, so choosing this route may 
 
 Because this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option. 
 
-**7.8 Is the ViBe consent form compulsory? What if I don’t want to grant camera access?**
+**7.8 Is the ViBe consent form compulsory? What if I don’t want to grant camera access?**   
 Yes — the consent form is compulsory.
 
 We would like to clearly inform you that providing consent is a mandatory requirement for any candidate enrolling in and continuing a course on the ViBe Learning Platform.
@@ -364,7 +367,7 @@ If the penalty score becomes high, you may be required to:
 At present, these penalty scores do not impact your HP (Health Points) or overall performance evaluation, as they are not being considered for scoring. Their primary purpose is to ensure proper engagement with the learning content.
 
 
-**7.10 What is the slot booking feature for cohorts? Is it compulsory?**  
+<!-- **7.10 What is the slot booking feature for cohorts? Is it compulsory?**  
 The slot booking feature allows students to schedule dedicated time slots to learn on the ViBe platform.
 
 From now on, students can book learning slots in advance as part of a commitment-based learning system.
@@ -379,7 +382,8 @@ Once a slot is booked, the student is expected to be active on ViBe during that 
 
 If a student does not attend or engage during their booked slots, penalties may be applied, as the system treats slot booking as a commitment.
 
-The main goal of this feature is to encourage discipline, consistency, and accountability in learning rather than passive participation.
+The main goal of this feature is to encourage discipline, consistency, and accountability in learning rather than passive participation. -->
+
 ---
 
 
@@ -692,11 +696,12 @@ Please ensure that you've submitted the forms required which you can find in the
 **12.3 Dashboard is not loading at the moment. What should I do?**
 The Dashboard is under update and this might cause some glitch in dashboard view. It will be resolved soon once the updates are done.  
 
+---
 
 ## 13. IITM BS Internship
 **Registration & Application**
 
-Q1. Where can I find the application form?
+**13.1 Where can I find the application form?**
 
 You should use the official link shared in the announcement post or pinned message. If you cannot find it, request it from admins.
 
@@ -704,29 +709,29 @@ Discord link: https://discord.com/invite/BrdzTSmMxN
 
 Youtube tutorial: https://youtu.be/vQ_bBwV9rZk?si=kvsNqnxoQEKxaV-M
 
-Q2. My application status is pending. How long does approval take?
+**13.2 My application status is pending. How long does approval take?**
 
 Approval time varies depending on admin verification. Wait for confirmation; avoid resubmitting multiple times.
 
-Q3. I filled the form with the wrong account and reapplied. Will it be accepted?
+**13.3 I filled the form with the wrong account and reapplied. Will it be accepted?**
 
 Yes, usually the latest valid submission is considered. Duplicate or incorrect entries may be ignored. Display name should be the registered name and a professional profile picture.
 
-Q4. I registered with a personal email instead of institute email. Is that okay?
+**13.4 I registered with a personal email instead of institute email. Is that okay?**
 
 No. Registered email IDs generally work unless explicitly stated otherwise.
 
 **🔹 Discord Access**
 
-Q5. Is it mandatory to log in using a college email ID?
+**13.5 Is it mandatory to log in using a college email ID?**
 
 No. You can usually join using any valid email unless instructions specify otherwise.
 
-Q6. Where is the Discord link?
+**13.6 Where is the Discord link?**
 
 It is shared in official posts or announcements. If missing, request it from moderators. 
 
-Q7. I joined Discord. What should I do next?
+**13.7 I joined Discord. What should I do next?**
 
 Complete onboarding steps:
 
@@ -738,31 +743,31 @@ Select cohort/role
 
 Introduce yourself (if required)
 
-Q8. Do I need a profile picture and real name?
+**13.8 Do I need a profile picture and real name?**
 
 Yes. Many communities require professional display names and profile photos for verification.
 
 **🔹 Cohorts & Selection**
 
-Q9. Which cohort should I select?
+**13.9 Which cohort should I select?**
 
 Choose the cohort mentioned in your invitation or instructions. If multiple exist (e.g., IIT Madras, RSAins), select the correct assigned one.
 
-Q10. I selected a cohort. What now?
+**13.10 I selected a cohort. What now?**
 
 Proceed with onboarding tasks and wait for instructions inside that cohort’s channel.
 
-Q11. Where can I join a specific cohort?
+**13.11 Where can I join a specific cohort?**
 
 Inside Discord → Roles/Channels section → Select cohort role.
 
 **🔹 Internship Details**
 
-Q12. Is this a bootcamp or internship?
+**13.12 Is this a bootcamp or internship?**
 
 It may function as a structured program combining training + internship elements. Check official description for classification.
 
-Q13. What are the prerequisites?
+**13.13 What are the prerequisites?**
 
 Prerequisites vary by program but typically include:
 
@@ -772,23 +777,23 @@ Active participation
 
 Completion of onboarding steps
 
-Q14. What are eligibility criteria?
+**13.14 What are eligibility criteria?**
 
 Eligibility depends on the cohort/program announcement. Confirm from official guidelines.
 
 **🔹 Process & Tracking**
 
-Q15. How is progress tracked?
+**13.15 How is progress tracked?**
 
 Progress is typically tracked through platform activity, task completion, quizzes, or submissions.
 
-Q16. Do we need to sign up on Vibe before slot booking?
+**13.16 Do we need to sign up on Vibe before slot booking?**
 
 It is required but not right now. Further announcements will be shared on this.
 
 **🔹 Technical / Access Issues**
 
-Q17. I joined Discord but didn’t get onboarding questions.
+**13.17 I joined Discord but didn’t get onboarding questions.**
 
 Try:
 
@@ -802,16 +807,18 @@ Try:
 
 **🔹 Communication Channels**
 
-Q18. Why wasn’t the Discord link shared directly in the post?  
+**13.18 Why wasn’t the Discord link shared directly in the post?**  
 
 Sometimes organizers route users through WhatsApp/Telegram first for filtering or instructions.
 
 **🔹 Miscellaneous**
 
-Q19. Are different emails/program mails related or the same program?
+**13.19 Are different emails/program mails related or the same program?**
 
 Not always. Programs with similar names may be separate initiatives. Confirm via official sources.
 
-Q20. Are there benefits like internship opportunities under mentors?
+**13.20 Are there benefits like internship opportunities under mentors?**
 
 Benefits depend on performance, participation, and program structure. Official announcements clarify this.
+
+---
