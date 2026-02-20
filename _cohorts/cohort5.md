@@ -6,13 +6,14 @@ permalink: /aksians/
 display_name: "AKSians"
 start_date: "20th Feb 2026"
 end_date: ""
-status: "Upcoming"
+status: "Active" #"Upcoming"
 dashboard_available: false
 color: "2C3E50"
 schedule:
   standups:
-    days: ["To be announced"]
-    time: "To be announced"
+    days: #["Tuesday", "Thursday", "Saturday"]
+    time: #"8:45 PM - 9:30 PM IST (duration may vary)"
+  live-session: #"Everyday at 10:00 PM - 11:00 PM IST"
 ---
 
 ## 📋 General Information

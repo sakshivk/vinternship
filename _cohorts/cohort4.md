@@ -11,8 +11,9 @@ dashboard_available: true
 color: "4F46E5"
 schedule:
   standups:
-    days: ["To be announced"]
-    time: "To be announced"
+    days: ["Tuesday", "Thursday", "Saturday"]
+    time: "8:45 PM - 9:30 PM IST (duration may vary)"
+  live-session: "Everyday at 10:00 PM - 11:00 PM IST"
 ---
 
 ## 📋 General Information

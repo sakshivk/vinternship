@@ -26,17 +26,49 @@ layout: default
 </div>
 
 {% if page.schedule %}
+  {% assign has_standups = false %}
+  {% assign has_live_session = false %}
+  
+  {% if page.schedule.standups %}
+    {% if page.schedule.standups.days and page.schedule.standups.days.size > 0 or page.schedule.standups.time and page.schedule.standups.time != "" %}
+      {% assign has_standups = true %}
+    {% endif %}
+  {% endif %}
+  
+  {% if page.schedule.live-session and page.schedule.live-session != "" %}
+    {% assign has_live_session = true %}
+  {% endif %}
+  
+  {% if has_standups or has_live_session %}
 <div style="background: #f6f8fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #{{ status_color }}; margin-bottom: 2rem;">
   <h3 style="margin-top: 0; color: #24292e;">🗓️ Session Schedule</h3>
-  {% if page.schedule.standups.days and page.schedule.standups.days.size > 0 %}
-  <p style="margin: 0; color: #586069;">
-    <strong>Stand-ups:</strong> {{ page.schedule.standups.days | join: ", " }} at {{ page.schedule.standups.time }}
+  {% if page.schedule.standups %}
+    {% assign has_days = false %}
+    {% assign has_time = false %}
+    {% if page.schedule.standups.days and page.schedule.standups.days.size > 0 %}
+      {% assign has_days = true %}
+    {% endif %}
+    {% if page.schedule.standups.time and page.schedule.standups.time != "" %}
+      {% assign has_time = true %}
+    {% endif %}
+    
+    {% if has_days and has_time %}
+    <p style="margin: 0; color: #586069;">
+      <strong>Stand-ups:</strong> {{ page.schedule.standups.days | join: ", " }} at {{ page.schedule.standups.time }}
+    </p>
+    {% else %}
+    <p style="margin: 0; color: #586069;">
+      <strong>Stand-ups:</strong> To be announced
+    </p>
+    {% endif %}
+  {% endif %}
+  {% if page.schedule.live-session and page.schedule.live-session != "" %}
+  <p style="margin: 8px 0 0 0; color: #586069;">
+    <strong>Live Sessions:</strong> {{ page.schedule.live-session }}
   </p>
   {% endif %}
-  <p style="margin: 8px 0 0 0; color: #586069;">
-    <strong>Live Sessions:</strong> On Saturday(after 2:00 PM) and Sunday.
-  </p>
 </div>
+  {% endif %}
 {% endif %}
 
 <hr>
