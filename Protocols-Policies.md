@@ -67,6 +67,20 @@ We ensure transparency and fairness by using an automated, dual-criteria filter 
 
 By maintaining a pace above this threshold, you ensure your spot in the program remains secure while you build meaningful professional artifacts, including **case studies and reflective blogs**.
 
+
+### Milestone-Based Backward Ejection
+
+In addition to day-to-day progress monitoring, the program employs a **structured milestone checkpoint system** to ensure participants are meeting critical learning objectives at designated intervals. This approach recognizes that consistent velocity is important, but achieving **concrete deliverable milestones** is essential for program completion and professional readiness.
+
+#### Why Milestone-Based Ejection?
+
+The Vinternship program is designed around a carefully sequenced curriculum with interdependent components. Missing critical milestones creates a cascading effect that:
+- Prevents meaningful participation in collaborative activities (vivas, peer reviews)
+- Compromises the quality of learning phases
+- Signals disengagement that cannot be remediated within the program timeline
+
+Therefore, **milestone achievement serves as a non-negotiable measure of program alignment**, ensuring all active participants maintain the foundational knowledge required for cohort-wide activities.
+
 ---
 
 *For additional questions, refer to our [FAQ](../faq/) or contact support.*

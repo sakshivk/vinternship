@@ -9,7 +9,11 @@ end_date:
 status: "Active"
 dashboard_available: true
 color: "10B981"
-description: "This cohort is exclusively for all the colleges or institutes that are connecting with VLED Connect for this particular internship."
+schedule:
+  standups:
+    days: 
+    time: 
+  live-session: #"Everyday at 10:00 PM - 11:00 PM IST"
 ---
 
 ## 📋 General Information

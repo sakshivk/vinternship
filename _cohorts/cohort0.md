@@ -13,7 +13,8 @@ redirect_to: "https://sudarshansudarshan.github.io/winternship/"
 schedule:
   standups:
     days: 
-    time: 
+    time:
+  live-session: "" 
 ---
 
 <script>
