@@ -11,5 +11,4 @@ From structured learning and standup sessions to applying concepts through case 
 
 Grateful to Indian Institute of Technology Ropar, Vicharnashala, annam.ai, and Prof. Sudarshan Iyengar for this opportunity.
 
----
 
