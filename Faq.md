@@ -255,19 +255,11 @@ Send the email to all concerned parties (POC, HOD, and DLED) and retain a copy f
 **7.1 How do I log in to ViBe?**  
 -> To log in to the ViBe platform, follow the steps below carefully:
 
-1. Open the ViBe invite link shared with you via email.
+1. Log in to the ViBe platform as a student from registered email ID
 
-2. Click Continue as Student when prompted.
+2. Check the "Invite" tab in the Top right side of the Dashboard.
 
-3. Select Continue with Google.
-
-4. Ensure you sign in using the same email ID (college email / registered email) that received the invite.
-
-5. Once authenticated, you will be redirected to your ViBe Dashboard, where your enrolled course will be visible.
-
--> If you've registered to the course, please wait for the request to be accepted by the instructors.
-
--> Join via the registration links shared in the respective discord announcement channel.
+3. Accept the course invite sent for your respective MERN Course.
 
 ⚠️ Logging in with a different email ID may result in access issues or missing course visibility.
 
