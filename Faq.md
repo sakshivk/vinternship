@@ -187,7 +187,7 @@ Others will receive a certification from Vicharanashala Lab for Education Design
  Recommendation letters are not guaranteed. You may request one from the course instructor after completing the internship, and it will be at their discretion based on the performance of the candidate.
 
 **5.4 When will AKSians (NPTEL) cohort receive their offer letter?**    
-The offer letter for the AKSians (NPTEL) cohort will be issued after the candidate completes 20% of the ViBe course. The deadline for the same will be 1 week after ViBe course progression. 
+The offer letter for the AKSians (NPTEL) cohort will be issued after the candidate completes 20% of the ViBe course. The deadline for the same will be 5 days after ViBe course progression. Prior announcements will be made before releasing the offer letters
 
 Note that the offer letters are only for the AKSians cohort. Announcements regarding offer letters will be made soon.
 
