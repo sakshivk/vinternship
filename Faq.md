@@ -684,6 +684,8 @@ The form contains **mandatory sections**:
 
 The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
 
+**10.12 How are viva slots been scheduled?**  
+The Viva are scheduled based on the completion and the intern's progress. The schedules will be announced by the team beforehand in the respective cohort announcements page.
 
 ---
 
