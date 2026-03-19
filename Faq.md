@@ -876,4 +876,30 @@ Benefits depend on performance, participation, and program structure. Official a
 
 Depends upon the project and the feature to be built. Please reach out to the mentors of the respective projects mentioned in the website on the projects site for more clarity on the projects and their aspects.
 
+**14.2 How can we connect with the mentors?**
+
+You can use Linkedin profiles of the mentors and inthe discord channel by sending a formal message in the Discussion or the chit chat servers in your cohort groups mentioning the respective mentor.
+
+**14.3 Is the project phase necessary for the completion of the Internship?**
+
+Yes, it is necessary for the internship completion and by the remarks of the mentor. You can work on the projects even after the internship based on the mentor's discretion on an extended internship.
+
+**14.4 How much should we contribute to the existing project to mark that we have contributed?**
+
+Depends upon the requirements of the project and the mentor. You can work on enhancement of the existing feature and even create a new feature in the project upon guidance from the mentor.
+
+**14.5 Do we need to fill any completion for the projects?**
+
+Not necessarily, depends upon the mentor's discretion.
+
+**14.6 Will we get the health points for the project?**
+
+HP will be awarded based on your performance, contribution and involvement in the projects which will be evaluated by the mentors and the Vinternship team.
+
+**14.7 How to contribute to the existing projects?**
+
+You can view the git repositories of the projects in the projects site in the website. Please get guidance from the mentors upon the usage of the repositories and how to raise PRs in them.
+
+
+
 ---
