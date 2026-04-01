@@ -31,3 +31,4 @@ Please do join our Discord for announcements and updates.
 - [ViBe Question Review Form](https://forms.gle/d8bWDKW294UQafmF8){:target="_blank"}
 - [Activity Completion Confirmation Form](https://forms.gle/q4sR3pUv7yG8oENs5){:target="_blank"}
 - [Case Study Submission Form](https://forms.gle/E5p8gLgrwp8FvhhH6){:target="_blank"}
+- [Project Selection Form](https://forms.gle/6AYZqscLR1SRGcsr6){:target="_blank"}

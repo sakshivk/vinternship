@@ -230,36 +230,34 @@
     color: #555;
   }
 
-  /* Tickets bars */
-  .ticket-bars {
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    gap: 28px;
-    height: 220px;
-    margin-top: 20px;
-  }
-
-  .bar {
-    width: 70px;
-    border-radius: 16px 16px 10px 10px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    padding-bottom: 10px;
-    font-weight: 800;
-    color: #1f2937;
-    box-shadow: 0 8px 18px rgba(0,0,0,0.10);
-  }
-
-  .gold   { height: 200px; background: #FFD54F; }
-  .silver { height: 150px; background: #CFD8DC; }
-  .bronze { height: 110px; background: #D7A86E; }
-
-  .soon {
-    margin-top: 18px;
+  .ticket-chip {
+    border-radius: 12px;
+    padding: 12px 28px;
     font-weight: 700;
-    color: #6b7280;
+    font-size: 15px;
+    text-align: center;
+    cursor: default;
+  }
+
+  .ticket-chip-gold {
+    background: linear-gradient(135deg, #fff9e6, #fff3cd);
+    border: 2.5px solid #e6ac00;
+    outline: 3px solid #FFD54F;
+    outline-offset: 3px;
+    color: #5a3e00;
+    box-shadow: 0 4px 14px rgba(230,172,0,0.35);
+  }
+
+  .ticket-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+
+  .ticket-row:last-child {
+    margin-bottom: 0;
   }
 
   .top-bar {
@@ -454,18 +452,38 @@
 </div>
 
 
-<!-- Tickets Tab (placeholder with bars) -->
+<!-- Tickets Tab -->
 <div class="tab-content" id="tab-tickets">
   <div class="dashboard-inner">
     <div class="dashboard-view" style="width:100%;">
-      <div class="placeholder">
-        <h2 style="color:#1a237e;">Tickets</h2>
-        <div class="ticket-bars">
-          <div class="bar gold">Gold</div>
-          <div class="bar silver">Silver</div>
-          <div class="bar bronze">Bronze</div>
+      <h2 style="color:#1a237e; margin-bottom:24px;">🎟️ Ticket Holders</h2>
+
+      <div style="
+        background: linear-gradient(135deg, #fffde7, #fff8e1);
+        border: 2px solid #FFD54F;
+        border-radius: 16px;
+        padding: 24px 28px;
+        margin-bottom: 28px;
+        box-shadow: 0 4px 16px rgba(255,213,79,0.25);
+      ">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:16px;">
+          <span style="font-size:28px;">🥇</span>
+          <h3 style="margin:0; color:#b8860b; font-size:20px; letter-spacing:0.5px;">Gold Ticket Holders</h3>
+          <span style="
+            margin-left:auto;
+            background:#FFD54F;
+            color:#5a3e00;
+            font-weight:700;
+            padding:4px 12px;
+            border-radius:999px;
+            font-size:13px;
+          ">2 holders</span>
         </div>
-        <p class="soon">Will be added soon</p>
+
+        <div class="ticket-row">
+          <div class="ticket-chip ticket-chip-gold">🏅 Yazdan Irfan</div>
+          <div class="ticket-chip ticket-chip-gold">🏅 Bhargavi D</div>
+        </div>
       </div>
     </div>
   </div>
