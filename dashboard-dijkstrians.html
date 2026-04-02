@@ -285,6 +285,24 @@
   background: #dfe2fd;
 }
 
+/* Back link (non-history) */
+.back-button {
+  display: inline-block;
+  background: #e8eaf6;
+  color: #1a237e;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  background: #dfe2fd;
+}
+
 /* Tabs stay centered */
 .tabs {
   display: flex;
@@ -353,7 +371,7 @@
 
 <!-- Top Tabs -->
 <div class="top-bar">
-  <button class="back-btn" onclick="history.back()">← Back</button>
+  <a href="../" class="back-button">← Back</a>
 
   <div class="tabs">
     <div class="tab active" data-tab="leaderboard">Leaderboard</div>
