@@ -31,4 +31,5 @@ This cohort is exclusively for NPTEL students and focuses on building full-stack
 - [Activity Completion Confirmation Form](https://forms.gle/ydseV19eLqXfFvte9){:target="_blank"}
 - [Case Study Submission Form](https://forms.gle/AU6xq3Jf7UiTqZjU6){:target="_blank"} 
 - [FAQ Activity Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfvGiK3WLH1q-tLbED_NO1lXijpRyjDEkL3gzhKd2rDO8jdnw/viewform){:target="_blank"}
+<!-- - [Endorsement Form](){:target="_blank"} -->
 - [Project Selection Form](https://forms.gle/6AYZqscLR1SRGcsr6){:target="_blank"}
